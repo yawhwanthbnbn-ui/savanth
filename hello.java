@@ -1,5 +1,5 @@
-package com.example;
-
-public class helloworld{
-  public static viod main {string []args}
-  print helloworld;
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
